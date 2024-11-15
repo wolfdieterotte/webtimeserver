@@ -12,6 +12,7 @@
 #include <signal.h>
 #include <time.h>
 
+// comment out if no debug messages desired
 #define DBG
 #include "../debug/dbg.h"
 
